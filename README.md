@@ -1,5 +1,6 @@
 # Task-manager
 Life & Career Planner is a Task / To-Do Management application built with Streamlit. It helps users organize their daily routine, manage tasks efficiently, and provides general guidance on structuring their day to support personal and professional goals. The app focuses on time management, conflict-free scheduling, and promoting well-being.
+
 Key Features
 
 Automatic Daily Schedule: Generates a structured routine based on the user’s profile, work/study hours, and personal habits.
